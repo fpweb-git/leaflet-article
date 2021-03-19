@@ -1,0 +1,113 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant népalais",
+				"type": "nepal",
+				"adress": "14 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [2.3291015625, 48.80686346108517]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant italien",
+				"type": "italie",
+				"adress": "12 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-1.0986328125, 46.14939437647686]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant italien",
+				"type": "italie",
+				"adress": "12 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.42822265625, 43.628123412124616]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant italien",
+				"type": "italie",
+				"adress": "12 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [2.1807861328125, 48.814098527355746]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant népalais",
+				"type": "nepal",
+				"adress": "14 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.4052734375, 43.27720532212024]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant népalais",
+				"type": "nepal",
+				"adress": "14 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [1.2084960937499998, 45.874712248904764]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant italien",
+				"type": "italie",
+				"adress": "12 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [5.09765625, 47.368594345213374]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant italien",
+				"type": "italie",
+				"adress": "12 rue exemple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-0.72509765625, 48.06339653776211]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "restaurant népalais",
+				"type": "nepal",
+				"adress": "14 rue exmple"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [2.26318359375, 49.89463439573421]
+			}
+		}
+	]
+}
